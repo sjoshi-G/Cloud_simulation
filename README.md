@@ -1,9 +1,9 @@
-#Introduction to Cloud Simulation - Datacom
-Overview
+# Introduction to Cloud Simulation - Datacom
+## Overview
 
 This repository contains the work completed as part of the Datacom Introduction to Cloud Job Simulation on Forage. The project focused on understanding cloud computing fundamentals, version control using GitHub, and workflow automation using GitHub Actions.
 
-##Objectives
+## Objectives
 Understand core cloud computing concepts.
 Learn Git and GitHub collaboration practices.
 Implement automated workflows using GitHub Actions.
@@ -12,13 +12,13 @@ GitHub Actions Workflow
 
 A GitHub Actions workflow was created to automate repository tasks.
 
-##Features
+## Features
 Triggered automatically on push events.
 Executes predefined workflow steps.
 Demonstrates Continuous Integration (CI) principles.
 Validates repository changes through automated execution.
 
-##Technologies Used
+## Technologies Used
 Git
 GitHub
 GitHub Actions
@@ -30,18 +30,18 @@ Continuous Integration (CI)
 Workflow Automation
 DevOps Basics
 
-##Project Structure
+## Project Structure
 
 .github/
 └── workflows/
 └── workflow.yml
 
-##Key Learning Outcomes
+## Key Learning Outcomes
 Gained an understanding of cloud service concepts.
 Learned how GitHub Actions automates development workflows.
 Improved familiarity with Git repositories and version control practices.
 Developed foundational DevOps and CI/CD knowledge.
 
-##Acknowledgement
+## Acknowledgement
 
 Completed as part of the Datacom Introduction to Cloud Virtual Experience Program on Forage.
